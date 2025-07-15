@@ -1,2 +1,2 @@
-# Game-Anlysis
+# Game-Analysis
 Loyalty point calculation
